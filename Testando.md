@@ -1,0 +1,1 @@
+Vou colocar o que aprendi em prática sobre git
